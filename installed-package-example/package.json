@@ -1,5 +1,5 @@
 {
-    "name": "foo_project",
+    "name": "installed-package-example",
     "dependencies": {
     },
     "devDependencies": {
